@@ -3,6 +3,6 @@
     "settings": {
         "ESB": "https://1ext.ru/esb/hs/1ext.esb/",
         "UPDATE": "https://1ext.ru",
-        "MCP": "wss://mcp.1ext.ru"
+        "MCP": "wss://mcp.1ext.ru:8443/connection/websocket"
     }
 }
