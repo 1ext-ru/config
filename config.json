@@ -1,8 +1,9 @@
 {
-    "format": "26.07.25.1",
+    "format": "26.08.01.1",
     "settings": {
         "ESB": "https://1ext.ru/esb/hs/1ext.esb/",
         "UPDATE": "https://1ext.ru",
-        "MCP": "wss://mcp.1ext.ru:8443/connection/websocket"
+        "MCP": "wss://mcp.1ext.ru:8443/connection/websocket",
+        "MCP_LOBBY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIiLCJleHAiOjE4Nzk5NDUxODZ9.I6Je5hpXouy_xWwf5MiCmTxA1-xnDZlcRzWr9tL5B0w"
     }
 }
